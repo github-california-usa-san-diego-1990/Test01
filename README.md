@@ -1,6 +1,3 @@
-
 # Test01
-
-I am not sure of this
-
-line 6 of test01
+This is a repository for learning
+Line 3
