@@ -16,6 +16,7 @@ def E_001():
             l.append(str(i))
     print ','.join(l)
     print len(l)
+    print 'extra'
 
 def E_002():
     n = 8
