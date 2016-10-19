@@ -1,3 +1,0 @@
-This is a test file for git
-line 2
-line 3
